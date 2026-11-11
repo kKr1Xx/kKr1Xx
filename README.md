@@ -13,10 +13,13 @@
 <br>
 
 <p align="center">
-  <a href="https://zonafvg.it"><img src="assets/zona-icon.png" alt="Zona FVG logo" width="96" height="96"></a>
+  <a href="https://zonafvg.it">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="assets/zona-logo-light.webp">
+      <img src="assets/zona-logo.webp" alt="Zona FVG" width="360">
+    </picture>
+  </a>
 </p>
-
-<h3 align="center">Zona FVG</h3>
 
 <p align="center">
   Stop asking "what's on tonight?"<br>
